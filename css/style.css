@@ -26,6 +26,7 @@ body {
  p {
 	color: #555;
 }
+
 header a{
 	color:rgb(152,173,166);
 	text-decoration: none;
@@ -33,6 +34,7 @@ header a{
 header a:hover{
 	color: rgb(111,127,122);
 }
+
 h1{
 	font-family: "baskerville", serif;
 	padding-bottom: 10px;
@@ -41,6 +43,7 @@ h1{
 	font-weight: normal;
 	border-bottom: 1px solid #ccc;
 }
+
 h2{
 	font-size: 200%;
 	color:#999;
@@ -56,7 +59,8 @@ h2{
 #featured a:hover {
 	text-decoration: underline;
 }
-.press-img{
+
+.press img{
 	border: 5px solid #d3d3d3;
 }
 
