@@ -24,6 +24,7 @@ body {
 /* Write all remaining styles here */
 
  h1, h2, p{
+	font-size: 200%;
 	color: grey;
 }
 img {
