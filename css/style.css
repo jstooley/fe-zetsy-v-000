@@ -23,7 +23,7 @@ body {
 
 /* Write all remaining styles here */
 
- 
+
 
 header a{
 	color:rgb(152,173,166);
@@ -50,13 +50,14 @@ h2{
 #featured img {
 	border: 5px solid #999;
 }
-#featured a{
+#featured a {
 	color: #1783bb;
 	text-decoration: none;
 }
 #featured a:hover {
 	text-decoration: underline;
 }
+
 p{
 	color: #555;
 }
