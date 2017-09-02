@@ -31,6 +31,9 @@ body {
 img {
 	border: 5px solid grey;
 }
+.press-img{
+	border: 5px solid hsla(0,100%, 90%. 0.3);
+}
 
  #copy-right{float: right;}
 
