@@ -24,7 +24,7 @@ body {
 /* Write all remaining styles here */
 
  p{
-	color: #666;
+	color: #555;
 }
 
 h1{
@@ -36,6 +36,7 @@ h2{
 	font-size: 200%;
 	color:#999;
 }
+
 #main-img {
 	border: 5px solid #999;
 	position: relative;
