@@ -54,10 +54,12 @@ h2{
 
 p{
 	color: #555;
+	text-decoration: none;
 }
 
 #press{
 	margin-bottom: 20px;
+	
 }
 
 #press img{
