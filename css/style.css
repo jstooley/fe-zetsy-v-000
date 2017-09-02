@@ -22,14 +22,14 @@ body {
 
 /* Write all remaining styles here */
 
-h1, h2, {
+.wrapper h1, .wrapper h2, {
 	font-size: 200%;
 	font-family: "baskerville". serif;
 	color: #808080;
 }
-img {
+. wrapper img {
 	border: 1px grey;
 }
-img.solid{outline-style:solid;}
+.wrapper img.solid{outline-style:solid;}
 
-#copy-right{float: left;}
+.wrapper #copy-right{float: left;}
