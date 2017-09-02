@@ -9,7 +9,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Baskerville.ttc', serif;
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -24,4 +24,5 @@ body {
 
 h1, h2, {
 	font-size: 200%;
+	font-family: "baskerville";
 }
