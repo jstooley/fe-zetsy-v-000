@@ -27,3 +27,7 @@ h1, h2, {
 	font-family: "baskerville";
 	color: #808080;
 }
+img {
+	border-style: solid;
+	border: grey;
+}
