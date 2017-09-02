@@ -23,9 +23,7 @@ body {
 
 /* Write all remaining styles here */
 
- h1, h2, {
-	font-size: 200%;
-	font-family: "baskerville", serif;
+ h1, h2, p{
 	color: grey;
 }
 img {
