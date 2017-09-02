@@ -38,6 +38,8 @@ h2{
 }
 #main-img {
 	border: 5px solid #999;
+	position: relative;
+	bottom: 10px;
 }
 .press-img{
 	border: 5px solid #d3d3d3;
