@@ -31,3 +31,5 @@ img {
 	border: 1px grey;
 }
 img.solid{outline-style:solid;}
+
+#copy-right{float: left;}
