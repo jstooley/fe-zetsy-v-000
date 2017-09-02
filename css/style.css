@@ -24,8 +24,10 @@ body {
 /* Write all remaining styles here */
 
  h1, h2, p{
-	font-size: 200%;
 	color: grey;
+}
+h1,h2{
+	font-size: 200%;
 }
 img {
 	border: 5px solid grey;
