@@ -47,14 +47,13 @@ h2{
 	color:#999;
 }
 
-#featured img {
-	border: 5px solid #999;
+p{
+	color: #555;
+	font-size: 1em;
 }
 
-
-#featured p{
-	color: #555;
-	text-decoration: none;
+#featured img {
+	border: 5px solid #999;
 }
 
 #press{
