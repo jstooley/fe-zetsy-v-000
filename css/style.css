@@ -28,6 +28,6 @@ h1, h2, {
 	color: #808080;
 }
 img {
-	border-style: solid;
-	border: grey;
+	border: 1px grey;
 }
+img.solid{outline-style:solid;}
