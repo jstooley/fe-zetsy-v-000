@@ -23,8 +23,11 @@ body {
 
 /* Write all remaining styles here */
 
- h1, h2,p{
+ h1, h2,{
 	color: grey;
+}
+p{
+	color: #666;
 }
 h1{
 	font-family: "baskerville", serif;
