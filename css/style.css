@@ -1,4 +1,5 @@
 /*////////////// Fonts //////////////*/
+
 @font-face{
 	font-family:"baskerville";
 	src: ("fonts/Baskerville.ttc");
@@ -28,8 +29,8 @@ body {
 	color: #808080;
 }
 img {
-	border: 1px grey;
+	border: 1px solid grey;
 }
- img.solid{outline-style:solid;}
+ i
 
  #copy-right{float: left;}
