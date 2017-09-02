@@ -23,7 +23,7 @@ body {
 
 /* Write all remaining styles here */
 
- p{
+ p {
 	color: #555;
 }
 header a{
@@ -48,6 +48,13 @@ h2{
 
 #featured img {
 	border: 5px solid #999;
+}
+#featured a{
+	color: #1783bb;
+	text-decoration: none;
+}
+#featured a:hover {
+	text-decoration: underline;
 }
 .press-img{
 	border: 5px solid #d3d3d3;
