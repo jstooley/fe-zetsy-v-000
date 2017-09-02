@@ -66,8 +66,9 @@ h2{
 	border: 5px solid #d3d3d3;
 }
 
-#featured a:hover {
-	text-decoration: underline;
+#featured a {
+	color: #1783bb;
+	text-decoration: none;
 }
 
 #press img:hover {
